@@ -7,6 +7,8 @@ You need Java 19+ versions to run this application.
 
 Download latest version of Java from here : https://www.oracle.com/java/technologies/downloads/
 
+Install it and you are good to go!
+
 
 
 
